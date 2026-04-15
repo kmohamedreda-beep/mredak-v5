@@ -13,9 +13,9 @@
       "cta_contact": "Me contacter"
     },
     "services": {
-      "label": "Expertises",
-      "title": "Des univers, une voix",
-      "description": "Du spot de trente secondes au documentaire d'une heure, j'adapte le ton, le rythme et l'intention à chaque projet.",
+      "label": "Offres premium",
+      "title": "Six expertises, une signature vocale",
+      "description": "Publicité, corporate, e-learning, médical, documentaire, jeu — six univers d’excellence, une même exigence de précision et de présence au micro.",
       "items": [
         {
           "title": "Publicité & Spots",
@@ -115,9 +115,9 @@
       "cta_contact": "تواصل معي"
     },
     "services": {
-      "label": "الخبرات",
-      "title": "عوالم متنوعة، صوت واحد",
-      "description": "من الإعلان القصير إلى الوثائقي الطويل، أتكيّف في النبرة والإيقاع والأسلوب مع كل مشروع.",
+      "label": "عروض مميّزة",
+      "title": "ست خبرات، بصمة صوت واحدة",
+      "description": "إعلان، مؤسسي، تعليم إلكتروني، طبي، وثائقي، ألعاب — ستة مجالات بمعايير رفيعة، ونفس الانضباط أمام الميكروفون.",
       "items": [
         {
           "title": "إعلانات وبقع إذاعية",
@@ -217,9 +217,9 @@
       "cta_contact": "Get in touch"
     },
     "services": {
-      "label": "Expertise",
-      "title": "Many worlds, one voice",
-      "description": "From a thirty-second spot to a feature-length documentary, I adapt tone, pace and intent to every project.",
+      "label": "Premium offerings",
+      "title": "Six disciplines, one signature voice",
+      "description": "Advertising, corporate, e-learning, medical, documentary, character work — six premium domains, one uncompromising standard behind the mic.",
       "items": [
         {
           "title": "Advertising & Spots",

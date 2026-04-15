@@ -41,9 +41,9 @@ export default function RootLayout({
     <html
       lang="fr"
       dir="ltr"
-      className={`${playfair.variable} ${montserrat.variable} ${cairo.variable}`}
+      className={`${playfair.variable} ${montserrat.variable} ${cairo.variable} min-h-full bg-[#060A10]`}
     >
-      <body className="flex min-h-screen flex-col font-sans">
+      <body className="flex min-h-screen flex-col bg-[#060A10] font-sans">
         <LanguageProvider>
           <SiteHeader />
           <main className="flex-1">{children}</main>

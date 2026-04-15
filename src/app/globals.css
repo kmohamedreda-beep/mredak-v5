@@ -1,25 +1,40 @@
 @import "tailwindcss";
 
+/*
+ * Dark Luxury — textes #F0F6FF, or #B8922A
+ * Fond du site (Bleu Abyssal) : #060A10 — appliqué à html/body via bg-luxury-bg
+ * #020814 : chrome (header / footer)
+ */
 @theme {
   --font-sans: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
   --font-serif: var(--font-playfair), ui-serif, Georgia, serif;
   --font-arabic: var(--font-cairo), ui-sans-serif, system-ui, sans-serif;
 
-  --color-navy: #001f4c;
-  --color-navy-dark: #001026;
-  --color-gold: #c5a059;
-  --color-gold-light: #d4b87e;
-  --color-cream: #ede8e0;
+  /* Bleu Abyssal — fond global du site */
+  --color-luxury-bg: #060a10;
+  --color-luxury-text: #f0f6ff;
+  --color-luxury-gold: #b8922a;
+  --color-luxury-gold-light: #c9a84a;
+  --color-on-gold: #060a10;
+  --color-abyssal: #020814;
+  --color-abyssal-deep: #01060d;
+
+  /* Alias sémantiques (charte Dark Luxury) */
+  --color-navy: #060a10;
+  --color-navy-dark: #03060c;
+  --color-cream: #f0f6ff;
+  --color-gold: #b8922a;
+  --color-gold-light: #c9a84a;
 
   --color-ink: #0a0a0a;
-  --color-paper: #faf9f7;
-  --color-midnight: #0c1528;
-  --color-midnight-soft: #141e33;
-  --color-accent: #c9a962;
-  --color-muted: #8a8f98;
+  --color-paper: #f0f6ff;
+  --color-midnight: #0a0e14;
+  --color-midnight-soft: #0f141c;
+  --color-accent: #b8922a;
+  --color-muted: #7a8494;
 
-  --shadow-gold-glow: 0 0 28px rgba(197, 160, 89, 0.22);
-  --shadow-gold-active: 0 4px 20px rgba(197, 160, 89, 0.45);
+  --shadow-gold-glow: 0 0 32px rgba(184, 146, 42, 0.18);
+  --shadow-gold-active: 0 4px 24px rgba(184, 146, 42, 0.35);
 }
 
 @layer base {
@@ -27,10 +42,9 @@
     scroll-behavior: smooth;
   }
   body {
-    @apply bg-navy text-cream antialiased;
+    @apply bg-luxury-bg text-luxury-text antialiased;
   }
 
-  /* Switch to Cairo when Arabic (RTL) is active */
   html[dir="rtl"] body {
     font-family: var(--font-arabic);
     letter-spacing: 0;
