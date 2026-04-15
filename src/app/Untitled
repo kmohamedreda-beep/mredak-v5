@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@theme {
+  /* Tes couleurs officielles MRK */
+  --color-navy: #001F4C;
+  --color-gold: #C5A059;
+  --color-cream: #EDE8E0;
+
+  /* Polices */
+  --font-playfair: var(--font-playfair), serif;
+
+  /* Effets de lumière personnalisés */
+  --shadow-gold-glow: 0 0 25px rgba(197, 160, 89, 0.2);
+  --shadow-gold-active: 0 4px 15px rgba(197, 160, 89, 0.4);
+}
+
+/* Forcer le fond Navy sur tout le site */
+body {
+  background-color: var(--color-navy);
+  color: var(--color-cream);
+  min-height: 100vh;
+}

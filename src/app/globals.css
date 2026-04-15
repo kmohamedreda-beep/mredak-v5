@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-montserrat), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-playfair), ui-serif, Georgia, serif;
+  --font-arabic: var(--font-cairo), ui-sans-serif, system-ui, sans-serif;
+
+  --color-navy: #001f4c;
+  --color-navy-dark: #001026;
+  --color-gold: #c5a059;
+  --color-gold-light: #d4b87e;
+  --color-cream: #ede8e0;
+
+  --color-ink: #0a0a0a;
+  --color-paper: #faf9f7;
+  --color-midnight: #0c1528;
+  --color-midnight-soft: #141e33;
+  --color-accent: #c9a962;
+  --color-muted: #8a8f98;
+
+  --shadow-gold-glow: 0 0 28px rgba(197, 160, 89, 0.22);
+  --shadow-gold-active: 0 4px 20px rgba(197, 160, 89, 0.45);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-navy text-cream antialiased;
+  }
+
+  /* Switch to Cairo when Arabic (RTL) is active */
+  html[dir="rtl"] body {
+    font-family: var(--font-arabic);
+    letter-spacing: 0;
+  }
+  html[dir="rtl"] .font-serif {
+    font-family: var(--font-arabic);
+    font-weight: 600;
+  }
+  html[dir="rtl"] .font-mono {
+    font-family: var(--font-arabic);
+  }
+}

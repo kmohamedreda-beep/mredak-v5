@@ -1,0 +1,8 @@
+node_modules
+.next
+.env
+ds_store
+public/video/
+*.mp4
+public/audio/
+public/video/

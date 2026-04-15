@@ -1,0 +1,307 @@
+{
+  "fr": {
+    "nav": {
+      "services": "Services",
+      "demos": "Démos",
+      "contact": "Contact"
+    },
+    "hero": {
+      "tagline": "Voix off professionnelle",
+      "title": "Mohamed Reda Khiar",
+      "description": "Une voix posée, précise, qui habille vos images sans les écraser. Je donne à votre message le ton qu'il mérite — publicité, narration, institutionnel — avec la même exigence qu'au micro.",
+      "cta_listen": "Écouter les démos",
+      "cta_contact": "Me contacter"
+    },
+    "services": {
+      "label": "Expertises",
+      "title": "Des univers, une voix",
+      "description": "Du spot de trente secondes au documentaire d'une heure, j'adapte le ton, le rythme et l'intention à chaque projet.",
+      "items": [
+        {
+          "title": "Publicité & Spots",
+          "description": "Radio, TV, digital. Une voix qui accroche, mémorise et vend — avec le rythme et le souffle qu'exige chaque format."
+        },
+        {
+          "title": "Corporate & Institutionnel",
+          "description": "Films d'entreprise, rapports annuels, présentations internes. Le ton qui inspire confiance et projette l'image de votre marque."
+        },
+        {
+          "title": "E-Learning & Formation",
+          "description": "Modules MOOC, cours en ligne, guides pratiques. Une diction claire et engageante pour maintenir l'attention du bout à la fin."
+        },
+        {
+          "title": "Médical & Pharmaceutique",
+          "description": "Vidéos patient, formations médicales, contenus réglementaires. Précision, neutralité et respect des exigences scientifiques."
+        },
+        {
+          "title": "Documentaire & Narration",
+          "description": "Voix-off narrative, audiobooks, reportages. Une présence qui guide sans s'imposer et donne de la profondeur à vos images."
+        },
+        {
+          "title": "Gaming & Personnages",
+          "description": "Trailers de jeux, personnages, annonces in-game. De l'héroïque au comique — chaque rôle avec sa couleur vocale."
+        }
+      ]
+    },
+    "contact": {
+      "label": "Contact",
+      "title": "Parlons de votre projet",
+      "description": "Brief, délais, ton souhaité : décrivez votre besoin et je vous réponds rapidement avec une proposition adaptée.",
+      "form": {
+        "name": "Nom",
+        "email": "Email",
+        "project_type": "Type de projet",
+        "project_placeholder": "Choisir…",
+        "projects": {
+          "ads": "Publicité",
+          "documentary": "Documentaire / narration",
+          "corporate": "Institutionnel / corporate",
+          "other": "Autre"
+        },
+        "message": "Message",
+        "submit": "Envoyer",
+        "sending": "Envoi…",
+        "success": "Message reçu. Je vous recontacte bientôt.",
+        "error": "Impossible d'envoyer pour le moment."
+      }
+    },
+    "audio": {
+      "section_label": "Portfolio audio",
+      "title": "Écoutez par univers",
+      "subtitle": "{n} extraits · filtrez par langue et catégorie",
+      "language_label": "Langue",
+      "category_label": "Catégorie",
+      "all": "Toutes",
+      "results": "{n} piste(s) pour cette sélection",
+      "empty": "Aucune piste ne correspond à cette combinaison.",
+      "reset": "Réinitialiser les filtres",
+      "playing": "En lecture",
+      "paused": "En pause",
+      "languages": {
+        "fr": "Français",
+        "ar": "Arabe",
+        "en": "Anglais",
+        "algerian_ar": "Darija"
+      },
+      "categories": {
+        "medical": "Médical",
+        "corporate": "Corporate",
+        "elearning": "E-Learning",
+        "gaming": "Gaming",
+        "luxury": "Luxe",
+        "documentary": "Documentaire",
+        "narration": "Narration",
+        "ads": "Publicité",
+        "international": "International"
+      }
+    },
+    "footer": {
+      "tagline": "Voix off professionnelle",
+      "email": "Nous contacter"
+    }
+  },
+
+  "ar": {
+    "nav": {
+      "services": "الخدمات",
+      "demos": "العروض",
+      "contact": "تواصل"
+    },
+    "hero": {
+      "tagline": "تعليق صوتي احترافي",
+      "title": "محمد رضا خيار",
+      "description": "صوت هادئ ودقيق يكسو صورك ويمنح رسالتك ثقلها الحقيقي. إعلانات، تعليق وثائقي، أفلام مؤسسية — بنفس المتطلبات العالية في كل مشروع.",
+      "cta_listen": "استمع إلى العروض",
+      "cta_contact": "تواصل معي"
+    },
+    "services": {
+      "label": "الخبرات",
+      "title": "عوالم متنوعة، صوت واحد",
+      "description": "من الإعلان القصير إلى الوثائقي الطويل، أتكيّف في النبرة والإيقاع والأسلوب مع كل مشروع.",
+      "items": [
+        {
+          "title": "إعلانات وبقع إذاعية",
+          "description": "إذاعة، تلفزيون، رقمي. صوت يجذب الانتباه ويترسّخ في الذاكرة — بالإيقاع المناسب لكل شكل إعلاني."
+        },
+        {
+          "title": "مؤسسي واحترافي",
+          "description": "أفلام الشركات، التقارير السنوية، العروض الداخلية. النبرة التي تبثّ الثقة وتجسّد صورة علامتك التجارية."
+        },
+        {
+          "title": "التعليم الإلكتروني والتدريب",
+          "description": "وحدات MOOC، دورات عبر الإنترنت، أدلة عملية. نطق واضح وجذاب يحافظ على انتباه المتعلم من البداية إلى النهاية."
+        },
+        {
+          "title": "طبي وصيدلاني",
+          "description": "فيديوهات المرضى، التكوين الطبي، المحتوى التنظيمي. دقة وحياد واحترام للمتطلبات العلمية."
+        },
+        {
+          "title": "وثائقي وسرد",
+          "description": "تعليق سردي، كتب صوتية، تقارير. حضور يُرشد دون أن يُهيمن، يمنح صورك عمقاً وروحاً."
+        },
+        {
+          "title": "ألعاب وشخصيات",
+          "description": "دعائيات الألعاب، الشخصيات، الإعلانات داخل اللعبة. من البطولي إلى الكوميدي — لكل دور لونه الصوتي."
+        }
+      ]
+    },
+    "contact": {
+      "label": "التواصل",
+      "title": "لنتحدث عن مشروعك",
+      "description": "الموجز، المواعيد، النبرة المطلوبة: صِف احتياجك وسأردّ عليك بسرعة باقتراح مناسب.",
+      "form": {
+        "name": "الاسم",
+        "email": "البريد الإلكتروني",
+        "project_type": "نوع المشروع",
+        "project_placeholder": "اختر…",
+        "projects": {
+          "ads": "إعلان",
+          "documentary": "وثائقي / سرد",
+          "corporate": "مؤسسي / احترافي",
+          "other": "أخرى"
+        },
+        "message": "الرسالة",
+        "submit": "إرسال",
+        "sending": "جارٍ الإرسال…",
+        "success": "تم استلام رسالتك. سأتواصل معك قريباً.",
+        "error": "تعذّر الإرسال في الوقت الحالي."
+      }
+    },
+    "audio": {
+      "section_label": "المحفظة الصوتية",
+      "title": "استمع حسب العالَم",
+      "subtitle": "{n} مقطع · اختر اللغة والتصنيف",
+      "language_label": "اللغة",
+      "category_label": "التصنيف",
+      "all": "الكل",
+      "results": "{n} مقطع لهذا الاختيار",
+      "empty": "لا توجد مقاطع تتوافق مع هذا التصنيف.",
+      "reset": "إعادة تعيين الفلاتر",
+      "playing": "قيد التشغيل",
+      "paused": "متوقف مؤقتاً",
+      "languages": {
+        "fr": "الفرنسية",
+        "ar": "العربية",
+        "en": "الإنجليزية",
+        "algerian_ar": "الدارجة"
+      },
+      "categories": {
+        "medical": "القطاع الطبي",
+        "corporate": "الفضاء المؤسسي",
+        "elearning": "التعليم الرقمي",
+        "gaming": "عالم الألعاب",
+        "luxury": "قطاع الفخامة",
+        "documentary": "التوثيق والسرد",
+        "narration": "التعليق الصوتي",
+        "ads": "الإعلان والبث",
+        "international": "الإنتاج الدولي"
+      }
+    },
+    "footer": {
+      "tagline": "تعليق صوتي احترافي",
+      "email": "تواصل معنا"
+    }
+  },
+
+  "en": {
+    "nav": {
+      "services": "Services",
+      "demos": "Demos",
+      "contact": "Contact"
+    },
+    "hero": {
+      "tagline": "Professional voice-over",
+      "title": "Mohamed Reda Khiar",
+      "description": "A measured, precise voice that dresses your visuals without overpowering them. I give your message the tone it deserves — advertising, narration, corporate — with the same uncompromising standard at every mic.",
+      "cta_listen": "Listen to demos",
+      "cta_contact": "Get in touch"
+    },
+    "services": {
+      "label": "Expertise",
+      "title": "Many worlds, one voice",
+      "description": "From a thirty-second spot to a feature-length documentary, I adapt tone, pace and intent to every project.",
+      "items": [
+        {
+          "title": "Advertising & Spots",
+          "description": "Radio, TV, digital. A voice that hooks, resonates and sells — with the rhythm and breath each format demands."
+        },
+        {
+          "title": "Corporate & Institutional",
+          "description": "Brand films, annual reports, internal presentations. The tone that builds trust and projects your brand identity."
+        },
+        {
+          "title": "E-Learning & Training",
+          "description": "MOOC modules, online courses, practical guides. Clear, engaging delivery that holds attention from start to finish."
+        },
+        {
+          "title": "Medical & Pharmaceutical",
+          "description": "Patient videos, medical training, regulatory content. Precision, neutrality and strict respect for scientific standards."
+        },
+        {
+          "title": "Documentary & Narration",
+          "description": "Narrative voice-over, audiobooks, reports. A presence that guides without imposing and gives depth to your visuals."
+        },
+        {
+          "title": "Gaming & Characters",
+          "description": "Game trailers, characters, in-game announcements. From heroic to comic — every role with its own vocal colour."
+        }
+      ]
+    },
+    "contact": {
+      "label": "Contact",
+      "title": "Let's talk about your project",
+      "description": "Brief, deadlines, desired tone: describe your need and I'll get back to you quickly with a tailored proposal.",
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "project_type": "Project type",
+        "project_placeholder": "Choose…",
+        "projects": {
+          "ads": "Advertising",
+          "documentary": "Documentary / narration",
+          "corporate": "Institutional / corporate",
+          "other": "Other"
+        },
+        "message": "Message",
+        "submit": "Send",
+        "sending": "Sending…",
+        "success": "Message received. I'll get back to you soon.",
+        "error": "Unable to send at the moment."
+      }
+    },
+    "audio": {
+      "section_label": "Audio portfolio",
+      "title": "Listen by universe",
+      "subtitle": "{n} tracks · filter by language and category",
+      "language_label": "Language",
+      "category_label": "Category",
+      "all": "All",
+      "results": "{n} track(s) for this selection",
+      "empty": "No tracks match this combination.",
+      "reset": "Reset filters",
+      "playing": "Now playing",
+      "paused": "Paused",
+      "languages": {
+        "fr": "French",
+        "ar": "Arabic",
+        "en": "English",
+        "algerian_ar": "Darija"
+      },
+      "categories": {
+        "medical": "Medical",
+        "corporate": "Corporate",
+        "elearning": "E-Learning",
+        "gaming": "Gaming",
+        "luxury": "Luxury",
+        "documentary": "Documentary",
+        "narration": "Narration",
+        "ads": "Advertising",
+        "international": "International"
+      }
+    },
+    "footer": {
+      "tagline": "Professional voice-over",
+      "email": "Contact us"
+    }
+  }
+}
