@@ -1,0 +1,162 @@
+[
+  {
+    "id": "video-01",
+    "title": "Culture d'entreprise — Cryostar",
+    "category": "corporate",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+    "poster": "/posters/poster-01-corporate.jpg"
+  },
+  {
+    "id": "video-02",
+    "title": "Film institutionnel — Alava Group",
+    "category": "corporate",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+    "poster": "/posters/poster-02-corporate.jpg"
+  },
+  {
+    "id": "video-03",
+    "title": "Vidéo corporate — Corpo BTP",
+    "category": "corporate",
+    "provider": "vimeo",
+    "url": "https://vimeo.com/000000001",
+    "poster": "/posters/poster-03-corporate.jpg"
+  },
+  {
+    "id": "video-04",
+    "title": "Formation internationale — 2025 ANOC",
+    "category": "corporate",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+    "poster": "/posters/poster-04-corporate.jpg"
+  },
+  {
+    "id": "video-05",
+    "title": "L'Amour de Paris",
+    "category": "luxury",
+    "provider": "vimeo",
+    "url": "https://vimeo.com/000000002",
+    "poster": "/posters/poster-05-luxury.jpg"
+  },
+  {
+    "id": "video-06",
+    "title": "Affinity — La Chapelle",
+    "category": "luxury",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+    "poster": "/posters/poster-06-luxury.jpg"
+  },
+  {
+    "id": "video-07",
+    "title": "Ninja Luxe Café",
+    "category": "luxury",
+    "provider": "vimeo",
+    "url": "https://vimeo.com/000000003",
+    "poster": "/posters/poster-07-luxury.jpg"
+  },
+  {
+    "id": "video-08",
+    "title": "FAO — AIMS4Forests",
+    "category": "luxury",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+    "poster": "/posters/poster-08-luxury.jpg"
+  },
+  {
+    "id": "video-09",
+    "title": "Spot TV — AVAST Secure Identity",
+    "category": "ads",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+    "poster": "/posters/poster-09-ads.jpg"
+  },
+  {
+    "id": "video-10",
+    "title": "Campagne Belgique — TV & Web",
+    "category": "ads",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+    "poster": "/posters/poster-10-ads.jpg"
+  },
+  {
+    "id": "video-11",
+    "title": "Radio FR — Elvis Radio Announcer",
+    "category": "ads",
+    "provider": "vimeo",
+    "url": "https://vimeo.com/000000004",
+    "poster": "/posters/poster-11-ads.jpg"
+  },
+  {
+    "id": "video-12",
+    "title": "Spot digital — Adobe Stock Unlimited",
+    "category": "ads",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+    "poster": "/posters/poster-12-ads.jpg"
+  },
+  {
+    "id": "video-13",
+    "title": "Micro-documentaire — Degas",
+    "category": "documentary",
+    "provider": "vimeo",
+    "url": "https://vimeo.com/000000005",
+    "poster": "/posters/poster-13-documentary.jpg"
+  },
+  {
+    "id": "video-14",
+    "title": "Description du Hajj",
+    "category": "documentary",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+    "poster": "/posters/poster-14-documentary.jpg"
+  },
+  {
+    "id": "video-15",
+    "title": "Fisherman — Narration AR",
+    "category": "documentary",
+    "provider": "vimeo",
+    "url": "https://vimeo.com/000000006",
+    "poster": "/posters/poster-15-documentary.jpg"
+  },
+  {
+    "id": "video-16",
+    "title": "Guardians",
+    "category": "documentary",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+    "poster": "/posters/poster-16-documentary.jpg"
+  },
+  {
+    "id": "video-17",
+    "title": "RNIB Cataracts — Voix AR",
+    "category": "medical",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+    "poster": "/posters/poster-17-medical.jpg"
+  },
+  {
+    "id": "video-18",
+    "title": "HealthWealth — Narration médicale",
+    "category": "medical",
+    "provider": "vimeo",
+    "url": "https://vimeo.com/000000007",
+    "poster": "/posters/poster-18-medical.jpg"
+  },
+  {
+    "id": "video-19",
+    "title": "VISUALHOUSE — Kuwait Medical City",
+    "category": "medical",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=XXXXXXXXXXX",
+    "poster": "/posters/poster-19-medical.jpg"
+  },
+  {
+    "id": "video-20",
+    "title": "Home Care Health Services",
+    "category": "medical",
+    "provider": "vimeo",
+    "url": "https://vimeo.com/000000008",
+    "poster": "/posters/poster-20-medical.jpg"
+  }
+]

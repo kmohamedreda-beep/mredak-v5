@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { Mic2 } from "lucide-react";
+
 import { LANG_OPTIONS, useLanguage, type Lang } from "@/context/LanguageContext";
 
 /** Barre de navigation — fond Bleu Abyssal (#020814) */
@@ -17,13 +17,19 @@ export function SiteHeader() {
   return (
     <header className="fixed top-0 right-0 left-0 z-50 border-b border-luxury-gold/12 bg-abyssal/92 backdrop-blur-md">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between gap-4 px-6">
-        <Link href="/" className="group flex shrink-0 items-center gap-3 no-underline">
-          <Mic2 className="size-5 shrink-0 text-luxury-gold" strokeWidth={1.5} aria-hidden />
-          <span className="flex flex-col leading-tight">
-            <span className="font-serif text-base font-semibold tracking-wide text-luxury-gold transition-colors group-hover:text-luxury-gold-light sm:text-lg">
-              MOHAMMED REDA KHIAR
+        <Link href="/" className="group flex shrink-0 items-center gap-4 no-underline">
+          {/* Monogramme MRK — Serif fin, kerning généreux, couleur Or */}
+          <span className="font-serif text-xl font-light tracking-[0.48em] text-luxury-gold transition-colors duration-200 group-hover:text-luxury-gold-light pr-1 sm:text-2xl">
+            MRK
+          </span>
+          {/* Séparateur vertical */}
+          <span className="hidden h-6 w-px bg-luxury-gold/18 sm:block" aria-hidden />
+          {/* Nom + tagline empilés */}
+          <span className="hidden flex-col leading-tight sm:flex">
+            <span className="font-sans text-[11px] font-light tracking-[0.18em] text-luxury-text/58 uppercase transition-colors duration-200 group-hover:text-luxury-text/80">
+              Mohammed Reda Khiar
             </span>
-            <span className="font-sans text-[10px] tracking-[0.28em] text-luxury-text/65 uppercase">
+            <span className="mt-0.5 font-sans text-[9px] tracking-[0.25em] text-luxury-text/32 uppercase">
               {t.hero.tagline}
             </span>
           </span>
