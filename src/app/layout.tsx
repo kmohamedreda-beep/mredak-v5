@@ -27,9 +27,9 @@ const cairo = Cairo({
 });
 
 export const metadata: Metadata = {
-  title: "Mohamed Reda Khiar — Voix off professionnelle",
+  title: "Mohamed Reda Khiar — Expert Voix-off Trilingue & Ingénieur du Son",
   description:
-    "Voix off pour publicité, narration et institutionnel. Mohamed Reda Khiar — précision, présence, exigence.",
+    "Voice is an Asset. L'autorité sonore pour vos projets Broadcast, Corporate et IA (FR | AR | EN).",
 };
 
 export default function RootLayout({

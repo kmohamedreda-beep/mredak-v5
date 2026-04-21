@@ -6,9 +6,10 @@
       "contact": "Contact"
     },
     "hero": {
-      "tagline": "Voix off professionnelle",
-      "title": "Mohamed Reda Khiar",
-      "description": "Une voix posée, précise, qui habille vos images sans les écraser. Je donne à votre message le ton qu'il mérite — publicité, narration, institutionnel — avec la même exigence qu'au micro.",
+      "tagline": "Broadcast · Corporate · IA",
+      "slogan": "Voice is an Asset.",
+      "title": "Expert Voix-off Trilingue & Ingénieur du Son",
+      "description": "L'autorité sonore pour vos projets Broadcast, Corporate et IA (FR | AR | EN).",
       "cta_listen": "Écouter les démos",
       "cta_contact": "Me contacter"
     },
@@ -96,7 +97,7 @@
       }
     },
     "footer": {
-      "tagline": "Voix off professionnelle",
+      "tagline": "Expert voix-off trilingue & ingénieur du son",
       "email": "Nous contacter"
     }
   },
@@ -108,9 +109,10 @@
       "contact": "تواصل"
     },
     "hero": {
-      "tagline": "تعليق صوتي احترافي",
-      "title": "محمد رضا خيار",
-      "description": "صوت هادئ ودقيق يكسو صورك ويمنح رسالتك ثقلها الحقيقي. إعلانات، تعليق وثائقي، أفلام مؤسسية — بنفس المتطلبات العالية في كل مشروع.",
+      "tagline": "بث · مؤسسي · ذكاء اصطناعي",
+      "slogan": "Voice is an Asset.",
+      "title": "خبير تعليق صوتي ثلاثي اللغات ومهندس صوت",
+      "description": "المرجع الصوتي لمشاريعكم في البث والمؤسسات والذكاء الاصطناعي (FR | AR | EN).",
       "cta_listen": "استمع إلى العروض",
       "cta_contact": "تواصل معي"
     },
@@ -198,7 +200,7 @@
       }
     },
     "footer": {
-      "tagline": "تعليق صوتي احترافي",
+      "tagline": "خبير تعليق صوتي ثلاثي اللغات ومهندس صوت",
       "email": "تواصل معنا"
     }
   },
@@ -210,9 +212,10 @@
       "contact": "Contact"
     },
     "hero": {
-      "tagline": "Professional voice-over",
-      "title": "Mohamed Reda Khiar",
-      "description": "A measured, precise voice that dresses your visuals without overpowering them. I give your message the tone it deserves — advertising, narration, corporate — with the same uncompromising standard at every mic.",
+      "tagline": "Broadcast · Corporate · AI",
+      "slogan": "Voice is an Asset.",
+      "title": "Trilingual Voice-Over Expert & Sound Engineer",
+      "description": "The sonic authority for your Broadcast, Corporate, and AI projects (FR | AR | EN).",
       "cta_listen": "Listen to demos",
       "cta_contact": "Get in touch"
     },
@@ -300,7 +303,7 @@
       }
     },
     "footer": {
-      "tagline": "Professional voice-over",
+      "tagline": "Trilingual voice-over & sound engineer",
       "email": "Contact us"
     }
   }

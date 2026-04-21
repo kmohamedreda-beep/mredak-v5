@@ -32,11 +32,14 @@ export function Hero() {
           {h.tagline}
         </p>
 
-        <h1 className="font-serif text-[clamp(38px,6vw,56px)] font-bold leading-[1.08] tracking-[-1px] text-[#F0F6FF] mb-6">
-  <span dir="ltr">Voice is an Asset.</span>
-</h1>
+        <h1
+          className="mb-5 bg-gradient-to-br from-[#f8f4ea] via-luxury-gold to-[#8a6a1e] bg-clip-text font-serif text-[clamp(44px,9.5vw,92px)] font-bold leading-[1.02] tracking-[-0.03em] text-transparent drop-shadow-[0_0_42px_rgba(184,146,42,0.22)]"
+          dir="ltr"
+        >
+          {h.slogan}
+        </h1>
 
-        <p className="mt-4 font-serif text-xl text-luxury-text/90 sm:text-2xl md:text-3xl">
+        <p className="mt-2 font-serif text-xl text-luxury-text/90 sm:text-2xl md:text-3xl">
           {h.title}
         </p>
 
